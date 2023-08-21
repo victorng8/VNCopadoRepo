@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CopadoEncryptedFieldTest__c</fullName>
+    <description>NRIC TEST</description>
+    <externalId>false</externalId>
+    <label>Copado Encrypted Field Test</label>
+    <length>175</length>
+    <maskChar>X</maskChar>
+    <maskType>lastFour</maskType>
+    <required>false</required>
+    <type>EncryptedText</type>
+</CustomField>
